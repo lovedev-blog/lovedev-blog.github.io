@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Love Dev Blog</title>
-    <link>./</link>
+    <link>https://lovedev-blog.github.io/</link>
     <description>Recent content on Love Dev Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lovedev-blog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Giới thiệu</title>
-      <link>./2021/02/gi%E1%BB%9Bi-thi%E1%BB%87u/</link>
+      <link>https://lovedev-blog.github.io/2021/02/gi%E1%BB%9Bi-thi%E1%BB%87u/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>./2021/02/gi%E1%BB%9Bi-thi%E1%BB%87u/</guid>
+      <guid>https://lovedev-blog.github.io/2021/02/gi%E1%BB%9Bi-thi%E1%BB%87u/</guid>
       <description>Xin chào mọi người, mình là một lập trình viên, chuyên môn chính của mình là C++, ngoài ra mình còn làm về C#, Javascript, Python và mình cũng có một chút kiến thức về Machine Learning. Mỗi lần gặp một vấn đề gì đó trong công việc mình thường hay tìm kiếm trên mạng, nhiều lần mình tìm tới những blog rất hay và giúp ích cho mình rất nhiều, mình thấy thường thì các blog viết rất có tâm, kiến thức trong blog thể hiện một sự am hiểu nhất định của blogger.</description>
     </item>
     
